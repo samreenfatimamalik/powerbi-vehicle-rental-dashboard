@@ -106,7 +106,7 @@ Repository Structure
 
  Vehicle-Rental-Financial-Dashboard
 │── mainDashboard.pbix
-│── Dataset.xlsx (if available)
+│── Dataset.xlsx 
 │── vehicleDASHBOARD.png
 
 Future Improvements
